@@ -1,0 +1,8 @@
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\obj\Debug\net6.0\ApiInv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\obj\Debug\net6.0\ApiInv.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\obj\Debug\net6.0\ApiInv.AssemblyInfo.cs
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\obj\Debug\net6.0\ApiInv.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\obj\Debug\net6.0\ApiInv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\obj\Debug\net6.0\ApiInv.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\obj\Debug\net6.0\ApiInv.AssemblyInfo.cs
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\obj\Debug\net6.0\ApiInv.csproj.CoreCompileInputs.cache

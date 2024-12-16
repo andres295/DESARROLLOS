@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10920D78-77BD-4624-BAA2-C9D0CCB70F13}|InventarioApi\\InventarioApi.csproj|C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\InventarioApi\\Models\\Conteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10920D78-77BD-4624-BAA2-C9D0CCB70F13}|InventarioApi\\InventarioApi.csproj|solutionrelative:InventarioApi\\Models\\Conteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10920D78-77BD-4624-BAA2-C9D0CCB70F13}|InventarioApi\\InventarioApi.csproj|c:\\users\\andr\u00E9s\\desktop\\subirgit\\api\\inventarioapi\\inventarioapi\\models\\conteos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10920D78-77BD-4624-BAA2-C9D0CCB70F13}|InventarioApi\\InventarioApi.csproj|solutionrelative:inventarioapi\\models\\conteos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10920D78-77BD-4624-BAA2-C9D0CCB70F13}|InventarioApi\\InventarioApi.csproj|c:\\users\\andr\u00E9s\\desktop\\subirgit\\api\\inventarioapi\\inventarioapi\\data\\dataarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10920D78-77BD-4624-BAA2-C9D0CCB70F13}|InventarioApi\\InventarioApi.csproj|solutionrelative:inventarioapi\\data\\dataarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10920D78-77BD-4624-BAA2-C9D0CCB70F13}|InventarioApi\\InventarioApi.csproj|C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\inventarioapi\\data\\clonexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10920D78-77BD-4624-BAA2-C9D0CCB70F13}|InventarioApi\\InventarioApi.csproj|solutionrelative:inventarioapi\\data\\clonexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10920D78-77BD-4624-BAA2-C9D0CCB70F13}|InventarioApi\\InventarioApi.csproj|C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\inventarioapi\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10920D78-77BD-4624-BAA2-C9D0CCB70F13}|InventarioApi\\InventarioApi.csproj|solutionrelative:inventarioapi\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CONTEOS.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\InventarioApi\\Models\\CONTEOS.cs",
+              "RelativeDocumentMoniker": "InventarioApi\\Models\\CONTEOS.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\InventarioApi\\Models\\CONTEOS.cs",
+              "RelativeToolTip": "InventarioApi\\Models\\CONTEOS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:47:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clonexion.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\InventarioApi\\Data\\Clonexion.cs",
+              "RelativeDocumentMoniker": "InventarioApi\\Data\\Clonexion.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\InventarioApi\\Data\\Clonexion.cs",
+              "RelativeToolTip": "InventarioApi\\Data\\Clonexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:25:58.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\InventarioApi\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "InventarioApi\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\InventarioApi\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "InventarioApi\\Controllers\\ArticuloController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:07:09.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\InventarioApi\\Data\\DataArticulo.cs",
+              "RelativeDocumentMoniker": "InventarioApi\\Data\\DataArticulo.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\InventarioApi\\Data\\DataArticulo.cs",
+              "RelativeToolTip": "InventarioApi\\Data\\DataArticulo.cs",
+              "ViewState": "AQIAAB0BAAAAAAAAAAAmwB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T23:30:27.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conteo.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\InventarioApi\\Models\\Conteo.cs",
+              "RelativeDocumentMoniker": "InventarioApi\\Models\\Conteo.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9s\\Desktop\\SubirGit\\Api\\InventarioApi\\InventarioApi\\Models\\Conteo.cs",
+              "RelativeToolTip": "InventarioApi\\Models\\Conteo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:01:43.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnScanner"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_weight="5"
+            android:layout_margin="10dp"
+            android:layout_gravity="center_horizontal"
+            android:onClick="Onclick"
+            android:text="Scanner" />
+
+        <Button
+            android:id="@+id/btnBuscar"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_weight="5"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="15dp"
+            android:text="Buscar" />
+
+        <Button
+            android:id="@+id/btnLimpiarCampos"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_weight="5"
+            android:layout_margin="15dp"
+            android:layout_gravity="center_horizontal"
+            android:onClick="Onclick"
+            android:text="Nuevo" />
+    </LinearLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/txtCodigo"
+            android:layout_width="300dp"
+            android:layout_height="55dp"
+            android:layout_margin="1dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/edit"
+            android:drawableStart="@drawable/ic_baseline_edit_24"
+            android:drawablePadding="10dp"
+            android:elevation="5dp"
+            android:ems="10"
+            android:hint="Código"
+            android:inputType="textPersonName"
+            android:paddingStart="13dp" />
+
+        <EditText
+            android:id="@+id/txtDescripcion"
+            android:layout_width="302dp"
+            android:layout_height="88dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="4dp"
+            android:background="@drawable/edit"
+            android:drawableStart="@drawable/ic_baseline_edit_24"
+            android:elevation="5dp"
+            android:ems="10"
+            android:hint="Descripción"
+            android:inputType="textMultiLine"
+            android:paddingStart="13dp" />
+        <EditText
+            android:id="@+id/txtProveedor"
+            android:layout_width="300dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="4dp"
+            android:background="@drawable/edit"
+            android:drawableStart="@drawable/ic_baseline_edit_24"
+            android:drawablePadding="10dp"
+            android:elevation="5dp"
+            android:ems="10"
+            android:enabled="false"
+            android:hint="Proveedor"
+            android:inputType="textPersonName"
+            android:paddingStart="13dp" />
+
+        <EditText
+            android:id="@+id/txtTipo"
+            android:layout_width="300dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="4dp"
+            android:background="@drawable/edit"
+            android:drawableStart="@drawable/ic_baseline_edit_24"
+            android:drawablePadding="10dp"
+            android:elevation="5dp"
+            android:ems="10"
+            android:enabled="false"
+            android:hint="Tipo"
+            android:inputType="textPersonName"
+            android:paddingStart="13dp" />
+        <EditText
+            android:id="@+id/txtum"
+            android:layout_width="300dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="4dp"
+            android:background="@drawable/edit"
+            android:drawableStart="@drawable/ic_baseline_edit_24"
+            android:drawablePadding="10dp"
+            android:elevation="5dp"
+            android:ems="10"
+            android:enabled="false"
+            android:hint="Unidad de médida"
+            android:inputType="textPersonName"
+            android:paddingStart="13dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seleccione un conteo:"
+            android:layout_marginStart="20dp"/>
+        <Spinner
+            android:id="@+id/spinnerConteos"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:background="@drawable/spinner_background"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill_vertical"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="16dp"
+            android:textColor="#A22206"
+            android:textSize="18sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seleccione un usuario:"
+            android:layout_marginStart="20dp"/>
+
+        <Spinner
+            android:id="@+id/spinnerUsuarios"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:background="@drawable/spinner_background"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill_vertical"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="16dp"
+            android:textColor="#A22206"
+            android:textSize="18sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seleccione una bodega:"
+            android:layout_marginStart="20dp"/>
+        <Spinner
+            android:id="@+id/spinnerBodegas"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:background="@drawable/spinner_background"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill_vertical"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="16dp"
+            android:textColor="#A22206"
+            android:textSize="18sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seleccione un rack:"
+            android:layout_marginStart="20dp"/>
+        <Spinner
+            android:id="@+id/spinnerRacks"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:background="@drawable/spinner_background"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill_vertical"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="16dp"
+            android:textColor="#A22206"
+            android:textSize="18sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seleccione una ubicación:"
+            android:layout_marginStart="20dp"/>
+        <Spinner
+            android:id="@+id/spinnerUbicaciones"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:background="@drawable/spinner_background"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill_horizontal"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="16dp"
+            android:textColor="#A22206"
+            android:textSize="18sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seleccione un lote:"
+            android:layout_marginStart="20dp"/>
+
+            <Spinner
+                android:id="@+id/spinnerLotes"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:background="@drawable/spinner_background"
+                android:layout_height="wrap_content"
+                android:layout_gravity="fill_horizontal"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginTop="16dp"
+                android:textColor="#A22206"
+                android:textSize="18sp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/dateTIL"
+        android:layout_width="304dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="4dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtConteo">
+        <EditText
+            android:id="@+id/txtVencimiento"
+            android:layout_width="300dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="4dp"
+            android:background="@drawable/edit"
+            android:drawableStart="@drawable/ic_baseline_calendar_today_24"
+            android:drawablePadding="10dp"
+            android:elevation="5dp"
+            android:ems="10"
+            android:hint="Fecha Vencimiento"
+            android:inputType="date"
+            android:paddingStart="13dp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <EditText
+        android:id="@+id/txtCantidad"
+        android:layout_width="300dp"
+        android:layout_height="55dp"
+        android:layout_margin="4dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/edit"
+        android:drawableStart="@drawable/ic_baseline_edit_24"
+        android:drawablePadding="10dp"
+        android:elevation="5dp"
+        android:ems="10"
+        android:hint="Cantidad"
+        android:inputType="number"
+        android:paddingStart="13dp"
+        />
+    <Button
+        android:id="@+id/btnGuardar"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_weight="5"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="55dp"
+        android:text="Guardar Conteo"
+        />
+</LinearLayout>
+    </ScrollView>
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+

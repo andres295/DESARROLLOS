@@ -1,0 +1,6 @@
+Instalar Dotnet.
+dotnet tool install --global dotnet-ef
+//Actualizar Contexto
+dotnet ef dbcontext scaffold Name=ConnectionStrings:BDconexion Microsoft.EntityFrameworkCore.SqlServer -o Models -f  --project "C:\Sistema Jacky\Tienda BBB\Sistema_TiendaBBB\Sistema_TiendaBBB\Sistema_TiendaBBB.csproj"
+dotnet ef dbcontext scaffold Name=ConnectionStrings:BDconexion Microsoft.EntityFrameworkCore.SqlServer -o Models -f  --project "C:\Sistema Jacky\Nomina\SOLTECSA\SOLTECSA\SOLTECSA.csproj"
+

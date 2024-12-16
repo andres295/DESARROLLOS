@@ -1,0 +1,12 @@
+﻿@model TbCatTipoIdentificacion
+
+<h1>Eliminar País</h1>
+
+<p>¿Está seguro de que desea eliminar el tipo de identificación <strong>@Model.DescripcionIdentificacion</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="IdIdentificacion" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Cancelar</a>
+</form>
+

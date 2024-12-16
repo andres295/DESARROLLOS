@@ -1,0 +1,73 @@
+﻿@using SOLTECSA.Models
+@model NominaViewModel
+
+
+
+<form method="post">
+
+    <div class="form-group">
+        <label asp-for="IdEmpleado" class="control-label"></label>
+        <select asp-for="IdEmpleado" class="form-control" asp-items="ViewBag.Empleados"></select>
+        <span asp-validation-for="IdEmpleado" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Salario">Salario</label>
+        <input type="number" step="0.01" class="form-control" id="Salario" name="Salario" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Inns">INSS</label>
+        <input type="text" class="form-control" id="Inns" name="Inns" readonly />
+    </div>
+
+    <div class="form-group">
+        <label for="Ir">IR</label>
+        <input type="text" class="form-control" id="Ir" name="Ir" readonly />
+    </div>
+
+    <div class="form-group">
+        <label for="Quincena">Quincena</label>
+        <input type="text" class="form-control" id="Quincena" name="Quincena" readonly />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
+
+@section Scripts {
+    <script>
+        // Función para calcular INSS, IR y Quincena 
+        document.getElementById("Salario").addEventListener("input", function () {
+            var salario = parseFloat(this.value);
+
+            if (isNaN(salario)) return;
+
+            // Llamar a los métodos para calcular INSS, IR y Quincena
+            var inss = calcularINSS(salario);
+            var ir = calcularIR(salario);
+            var quincena = calcularQuincena(salario, ir, inss);
+
+            // Asignar los valores calculados a las cajas de texto
+            document.getElementById("Inns").value = inss.toFixed(2);
+            document.getElementById("Ir").value = ir.toFixed(2);
+            document.getElementById("Quincena").value = quincena.toFixed(2);
+        });
+
+        function calcularINSS(salario) {
+            return  salario * 0.07 / 2;
+        }
+
+        function calcularIR(salario) {
+            var salarioAnual = salario * 12;
+            if (salarioAnual <= 100000) return 0;
+            if (salarioAnual >= 100000.01) return salario * 0.15 ;
+            if (salarioAnual >= 200000.01) return salario * 0.20;
+            if (salarioAnual >= 350000.01) return salario * 0.25;
+            return salario * 0.30;
+        }
+
+        function calcularQuincena(salario, ir, inss) {
+            return salario / 2 - ir - inss;
+        }
+    </script>
+}

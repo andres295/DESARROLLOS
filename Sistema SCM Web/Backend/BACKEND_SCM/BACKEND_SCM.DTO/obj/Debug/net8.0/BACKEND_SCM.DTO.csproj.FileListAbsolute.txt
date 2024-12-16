@@ -1,0 +1,11 @@
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.DTO\bin\Debug\net8.0\BACKEND_SCM.DTO.deps.json
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.DTO\bin\Debug\net8.0\BACKEND_SCM.DTO.dll
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.DTO\bin\Debug\net8.0\BACKEND_SCM.DTO.pdb
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.DTO\obj\Debug\net8.0\BACKEND_SCM.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.DTO\obj\Debug\net8.0\BACKEND_SCM.DTO.AssemblyInfoInputs.cache
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.DTO\obj\Debug\net8.0\BACKEND_SCM.DTO.AssemblyInfo.cs
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.DTO\obj\Debug\net8.0\BACKEND_SCM.DTO.csproj.CoreCompileInputs.cache
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.DTO\obj\Debug\net8.0\BACKEND_SCM.DTO.dll
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.DTO\obj\Debug\net8.0\refint\BACKEND_SCM.DTO.dll
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.DTO\obj\Debug\net8.0\BACKEND_SCM.DTO.pdb
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.DTO\obj\Debug\net8.0\ref\BACKEND_SCM.DTO.dll

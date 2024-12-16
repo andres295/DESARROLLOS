@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BACKEND_SCM.API.props" />
+</Project>

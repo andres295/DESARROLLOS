@@ -1,0 +1,12 @@
+﻿@model TbCatClasificacionCte
+
+<h1>Eliminar Clasificación</h1>
+
+<p>¿Está seguro de que desea eliminar el artículo <strong>@Model.DescripcionClasificacion</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="IdClasificacion" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Cancelar</a>
+</form>
+

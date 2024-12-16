@@ -1,0 +1,52 @@
+﻿@model List<TbCatProveedor>
+
+<h1 class="mb-4">Proveedores</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success mb-3">Agregar Proveedor</a>
+</p>
+
+<!-- Tabla de Artículos -->
+<div class="table-responsive">
+    <table class="table table-hover table-striped table-bordered">
+        <thead class="table-primary">
+            <tr>
+
+                <th>Proveedor</th>
+                <th>Clasificación</th>
+                <th>Tipo Pago</th>
+                <th>Tipo Identificación</th>
+                <th>País</th>
+                <th>Ciudad</th>
+                <th>Identificación</th>
+                <th>Dirección</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tbCatProveedor in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(m => tbCatProveedor.NombreProveedor)</td>
+                    <td>@Html.DisplayFor(m => tbCatProveedor.IdClasificacionNavigation.DescripcionClasificacion)</td>
+                    <td>@Html.DisplayFor(m => tbCatProveedor.IdPagoNavigation.DescripcionPago)</td>
+                    <td>@Html.DisplayFor(m => tbCatProveedor.IdIdentificacionNavigation.DescripcionIdentificacion)</td>
+                    <td>@Html.DisplayFor(m => tbCatProveedor.IdPaisNavigation.DescripcionPais)</td>
+                    <td>@Html.DisplayFor(m => tbCatProveedor.IdCiudadNavigation.DescripcionCiudad)</td>
+                    <td>@Html.DisplayFor(m => tbCatProveedor.NumeroIdentificacion)</td>
+                    <td>@Html.DisplayFor(m => tbCatProveedor.Direccion)</td>
+                    <td>
+                        <!-- Botones para editar y eliminar -->
+                        <a asp-action="Edit" asp-route-id="@tbCatProveedor.IdProveedor" class="btn btn-warning btn-sm">
+                            <i class="bi bi-pencil"></i> Editar
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@tbCatProveedor.IdProveedor" class="btn btn-danger btn-sm">
+                            <i class="bi bi-trash"></i> Eliminar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

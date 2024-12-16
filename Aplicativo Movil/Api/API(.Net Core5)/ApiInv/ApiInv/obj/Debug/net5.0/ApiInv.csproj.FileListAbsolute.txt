@@ -1,0 +1,521 @@
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.json
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.exe
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.deps.json
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.json
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.dev.json
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\ref\ApiInv.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csprojAssemblyReference.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfoInputs.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfo.cs
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.Manifest.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\scopedcss\bundle\ApiInv.styles.css
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.RazorTargetAssemblyInfo.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CopyComplete
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ref\ApiInv.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.genruntimeconfig.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.json
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.exe
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.deps.json
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.json
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.dev.json
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ref\ApiInv.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csprojAssemblyReference.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfoInputs.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfo.cs
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.Manifest.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\scopedcss\bundle\ApiInv.styles.css
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.RazorTargetAssemblyInfo.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CopyComplete
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ref\ApiInv.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.genruntimeconfig.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\SwashBuckle.AspNetCore.MicrosoftExtensions.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.json
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.StaticWebAssets.xml
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.exe
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.deps.json
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.json
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.dev.json
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.pdb
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\SwashBuckle.AspNetCore.MicrosoftExtensions.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.AssemblyReference.cache
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfoInputs.cache
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfo.cs
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CoreCompileInputs.cache
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\scopedcss\bundle\ApiInv.styles.css
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.Manifest.cache
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.RazorTargetAssemblyInfo.cache
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CopyComplete
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\refint\ApiInv.dll
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.pdb
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.genruntimeconfig.cache
+C:\Users\Jefe TI\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ArchivosVarios\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ref\ApiInv.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.Development.json
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.json
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.StaticWebAssets.xml
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.exe
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.deps.json
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.json
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.dev.json
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.pdb
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Humanizer.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\SwashBuckle.AspNetCore.MicrosoftExtensions.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.AssemblyReference.cache
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.GeneratedMSBuildEditorConfig.editorconfig
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfoInputs.cache
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfo.cs
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CoreCompileInputs.cache
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cs
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cache
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\scopedcss\bundle\ApiInv.styles.css
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.Manifest.cache
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.RazorTargetAssemblyInfo.cache
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CopyComplete
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\refint\ApiInv.dll
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.pdb
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.genruntimeconfig.cache
+E:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ref\ApiInv.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.Development.json
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.StaticWebAssets.xml
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.json
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.exe
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.deps.json
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.json
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.dev.json
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.pdb
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Humanizer.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\SwashBuckle.AspNetCore.MicrosoftExtensions.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.AssemblyReference.cache
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.GeneratedMSBuildEditorConfig.editorconfig
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfoInputs.cache
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfo.cs
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CoreCompileInputs.cache
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cs
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cache
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\scopedcss\bundle\ApiInv.styles.css
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.Manifest.cache
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.RazorTargetAssemblyInfo.cache
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CopyComplete
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\refint\ApiInv.dll
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.pdb
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.genruntimeconfig.cache
+H:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ref\ApiInv.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.Development.json
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.json
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.StaticWebAssets.xml
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.exe
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.deps.json
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.json
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.dev.json
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.pdb
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Humanizer.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\SwashBuckle.AspNetCore.MicrosoftExtensions.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.AssemblyReference.cache
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.GeneratedMSBuildEditorConfig.editorconfig
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfoInputs.cache
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfo.cs
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CoreCompileInputs.cache
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cs
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cache
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\scopedcss\bundle\ApiInv.styles.css
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.Manifest.cache
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.RazorTargetAssemblyInfo.cache
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CopyComplete
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\refint\ApiInv.dll
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.pdb
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.genruntimeconfig.cache
+D:\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ref\ApiInv.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.json
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.StaticWebAssets.xml
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.exe
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.deps.json
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.json
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.dev.json
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.pdb
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\SwashBuckle.AspNetCore.MicrosoftExtensions.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfo.cs
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\scopedcss\bundle\ApiInv.styles.css
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.Manifest.cache
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.Pack.cache
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\msbuild.ApiInv.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\msbuild.build.ApiInv.props
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ApiInv.props
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ApiInv.props
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.RazorTargetAssemblyInfo.cache
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CopyComplete
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\refint\ApiInv.dll
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.pdb
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.genruntimeconfig.cache
+C:\Users\Andres\Desktop\Proyectos\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ref\ApiInv.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\appsettings.json
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.StaticWebAssets.xml
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.exe
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.deps.json
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.json
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.runtimeconfig.dev.json
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\ApiInv.pdb
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\SwashBuckle.AspNetCore.MicrosoftExtensions.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.AssemblyInfo.cs
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\scopedcss\bundle\ApiInv.styles.css
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.Manifest.cache
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\ApiInv.StaticWebAssets.Pack.cache
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\msbuild.ApiInv.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\msbuild.build.ApiInv.props
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ApiInv.props
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ApiInv.props
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.RazorTargetAssemblyInfo.cache
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.csproj.CopyComplete
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\refint\ApiInv.dll
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.pdb
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ApiInv.genruntimeconfig.cache
+C:\Users\Andres\Desktop\GitHub\API-Inv\API(.Net Core5)\ApiInv\ApiInv\obj\Debug\net5.0\ref\ApiInv.dll

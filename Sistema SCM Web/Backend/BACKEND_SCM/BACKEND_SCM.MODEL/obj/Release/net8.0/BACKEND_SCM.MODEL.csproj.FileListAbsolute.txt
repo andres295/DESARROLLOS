@@ -1,0 +1,14 @@
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\bin\Release\net8.0\BACKEND_SCM.MODEL.deps.json
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\bin\Release\net8.0\BACKEND_SCM.MODEL.runtimeconfig.json
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\bin\Release\net8.0\BACKEND_SCM.MODEL.dll
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\bin\Release\net8.0\BACKEND_SCM.MODEL.pdb
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\obj\Release\net8.0\BACKEND_SCM.MODEL.csproj.AssemblyReference.cache
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\obj\Release\net8.0\BACKEND_SCM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\obj\Release\net8.0\BACKEND_SCM.MODEL.AssemblyInfoInputs.cache
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\obj\Release\net8.0\BACKEND_SCM.MODEL.AssemblyInfo.cs
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\obj\Release\net8.0\BACKEND_SCM.MODEL.csproj.CoreCompileInputs.cache
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\obj\Release\net8.0\BACKEND_SCM.MODEL.dll
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\obj\Release\net8.0\refint\BACKEND_SCM.MODEL.dll
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\obj\Release\net8.0\BACKEND_SCM.MODEL.pdb
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\obj\Release\net8.0\BACKEND_SCM.MODEL.genruntimeconfig.cache
+C:\Sistema SCM Web\Backend\BACKEND_SCM\BACKEND_SCM.MODEL\obj\Release\net8.0\ref\BACKEND_SCM.MODEL.dll

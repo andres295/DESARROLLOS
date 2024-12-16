@@ -1,0 +1,65 @@
+﻿@using Sistema_TiendaBBB.Models.ViewModels
+@model ArticuloViewModel
+
+<h1>Crear Articulo</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="DescripcionArticulo" class="control-label"></label>
+                <input asp-for="DescripcionArticulo" class="form-control" />
+                <span asp-validation-for="DescripcionArticulo" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="IdProveedor" class="control-label"></label>
+                <select asp-for="IdProveedor" class="form-control" asp-items="ViewBag.Proveedor"></select>
+                <span asp-validation-for="IdProveedor" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="IdClasificacion" class="control-label"></label>
+                <select asp-for="IdClasificacion" class="form-control" asp-items="ViewBag.Clasificacion"></select>
+                <span asp-validation-for="IdClasificacion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="IdPresentacion" class="control-label"></label>
+                <select asp-for="IdPresentacion" class="form-control" asp-items="ViewBag.Presentacion"></select>
+                <span asp-validation-for="IdPresentacion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Disponible" class="control-label"></label>
+                <input asp-for="Disponible" class="form-control" />
+                <span asp-validation-for="Disponible" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CostoUnitario" class="control-label"></label>
+                <input asp-for="CostoUnitario" class="form-control" />
+                <span asp-validation-for="CostoUnitario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PrecioVenta" class="control-label"></label>
+                <input asp-for="PrecioVenta" class="form-control" />
+                <span asp-validation-for="PrecioVenta" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

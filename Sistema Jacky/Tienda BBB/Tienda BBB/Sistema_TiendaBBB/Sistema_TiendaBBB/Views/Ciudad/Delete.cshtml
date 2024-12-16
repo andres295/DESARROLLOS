@@ -1,0 +1,12 @@
+﻿@model TbCatCiudad
+
+<h1>Eliminar Ciudad</h1>
+
+<p>¿Está seguro de que desea eliminar la ciudad <strong>@Model.DescripcionCiudad</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="IdCiudad" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Cancelar</a>
+</form>
+

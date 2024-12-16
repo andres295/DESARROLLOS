@@ -1,0 +1,116 @@
+﻿@model Empleado
+
+<h1>Actualizar Empleado</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <!-- Cambia el asp-action a "Edit" -->
+        <form asp-action="Edit" method="post">
+            <!-- Campo oculto para el ID del artículo -->
+            <input type="hidden" asp-for="IdEmpleado" />
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="FechaNacimiento" class="control-label"></label>
+                <input asp-for="FechaNacimiento" class="form-control" type="date" />
+                <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cedula" class="control-label"></label>
+                <input asp-for="Cedula" class="form-control" />
+                <span asp-validation-for="Cedula" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dirección" class="control-label"></label>
+                <input asp-for="Dirección" class="form-control" />
+                <span asp-validation-for="Dirección" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstadoCivil" class="control-label"></label>
+                <select asp-for="EstadoCivil" class="form-control" asp-items="ViewBag.EstadoCivilList"></select>
+                <span asp-validation-for="EstadoCivil" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Padre" class="control-label"></label>
+                <input asp-for="Padre" class="form-control" />
+                <span asp-validation-for="Padre" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Madre" class="control-label"></label>
+                <input asp-for="Madre" class="form-control" />
+                <span asp-validation-for="Madre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Hijos" class="control-label"></label>
+                <select asp-for="Hijos" class="form-control" asp-items="ViewBag.HijosList"></select>
+                <span asp-validation-for="Hijos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstudiosPrimaria" class="control-label"></label>
+                <input asp-for="EstudiosPrimaria" class="form-control" />
+                <span asp-validation-for="EstudiosPrimaria" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstudiosSecundaria" class="control-label"></label>
+                <input asp-for="EstudiosSecundaria" class="form-control" />
+                <span asp-validation-for="EstudiosSecundaria" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstudiosUniversitario" class="control-label"></label>
+                <input asp-for="EstudiosUniversitario" class="form-control" />
+                <span asp-validation-for="EstudiosUniversitario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstudiosPostgrado" class="control-label"></label>
+                <input asp-for="EstudiosPostgrado" class="form-control" />
+                <span asp-validation-for="EstudiosPostgrado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstudiosTecnicos" class="control-label"></label>
+                <input asp-for="EstudiosTecnicos" class="form-control" />
+                <span asp-validation-for="EstudiosTecnicos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstudiosDiplomado" class="control-label"></label>
+                <input asp-for="EstudiosDiplomado" class="form-control" />
+                <span asp-validation-for="EstudiosDiplomado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstudiosDoctorado" class="control-label"></label>
+                <input asp-for="EstudiosDoctorado" class="form-control" />
+                <span asp-validation-for="EstudiosDoctorado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstudiosCertificaciones" class="control-label"></label>
+                <input asp-for="EstudiosCertificaciones" class="form-control" />
+                <span asp-validation-for="EstudiosCertificaciones" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Salario" class="control-label"></label>
+                <input asp-for="Salario" class="form-control" />
+                <span asp-validation-for="Salario" class="text-danger"></span>
+            </div>
+
+
+            <!-- Actualizar Registro -->
+            <div class="form-group">
+                <input type="submit" value="Actualizar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

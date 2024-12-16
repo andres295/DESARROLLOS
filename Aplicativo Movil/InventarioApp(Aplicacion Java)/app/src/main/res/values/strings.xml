@@ -1,0 +1,626 @@
+<resources>
+    <string name="app_name">AppInv</string>
+
+    <string-array name="ubicaciones">
+        <item>ND</item>
+        <item>R1-A01</item>
+        <item>R1-B01</item>
+        <item>R1-C01</item>
+        <item>R1-D01</item>
+        <item>R1-A02</item>
+        <item>R1-B02</item>
+        <item>R1-C02</item>
+        <item>R1-D02</item>
+        <item>R1-A03</item>
+        <item>R1-B03</item>
+        <item>R1-C03</item>
+        <item>R1-D03</item>
+        <item>R1-A04</item>
+        <item>R1-B04</item>
+        <item>R1-C04</item>
+        <item>R1-D04</item>
+        <item>R1-A05</item>
+        <item>R1-B05</item>
+        <item>R1-C05</item>
+        <item>R1-D05</item>
+        <item>R1-A06</item>
+        <item>R1-B06</item>
+        <item>R1-C06</item>
+        <item>R1-D06</item>
+        <item>R1-A07</item>
+        <item>R1-B07</item>
+        <item>R1-C07</item>
+        <item>R1-D07</item>
+        <item>R1-A08</item>
+        <item>R1-B08</item>
+        <item>R1-C08</item>
+        <item>R1-D08</item>
+        <item>R1-A09</item>
+        <item>R1-B09</item>
+        <item>R1-C09</item>
+        <item>R1-D09</item>
+        <item>R1-A10</item>
+        <item>R1-B10</item>
+        <item>R1-C10</item>
+        <item>R1-D10</item>
+
+        <item>R2-D01</item>
+        <item>R2-D02</item>
+        <item>R2-D03</item>
+        <item>R2-D04</item>
+        <item>R2-D05</item>
+        <item>R2-D06</item>
+        <item>R2-D07</item>
+        <item>R2-D08</item>
+        <item>R2-D09</item>
+        <item>R2-D10</item>
+        <item>R2-D11</item>
+        <item>R2-D12</item>
+        <item>R2-C01</item>
+        <item>R2-C02</item>
+        <item>R2-C03</item>
+        <item>R2-C04</item>
+        <item>R2-C05</item>
+        <item>R2-C06</item>
+        <item>R2-C07</item>
+        <item>R2-C08</item>
+        <item>R2-C09</item>
+        <item>R2-C10</item>
+        <item>R2-C11</item>
+        <item>R2-C12</item>
+        <item>R2-B03</item>
+        <item>R2-B04</item>
+        <item>R2-B05</item>
+        <item>R2-B06</item>
+        <item>R2-B07</item>
+        <item>R2-B08</item>
+        <item>R2-B09</item>
+        <item>R2-B10</item>
+        <item>R2-B11</item>
+        <item>R2-B12</item>
+        <item>R2-A01</item>
+        <item>R2-A02</item>
+        <item>R2-A03</item>
+        <item>R2-A04</item>
+        <item>R2-A05</item>
+        <item>R2-A06</item>
+        <item>R2-A07</item>
+        <item>R2-A08</item>
+        <item>R2-A09</item>
+        <item>R2-A10</item>
+        <item>R2-A11</item>
+        <item>R2-A12</item>
+
+        <item>R3-A03</item>
+        <item>R3-B03</item>
+        <item>R3-C01</item>
+        <item>R3-C02</item>
+        <item>R3-C03</item>
+        <item>R3-D01</item>
+        <item>R3-D02</item>
+        <item>R3-D03</item>
+        <item>R3-A04</item>
+        <item>R3-B04</item>
+        <item>R3-C04</item>
+        <item>R3-D04</item>
+        <item>R3-A05</item>
+        <item>R3-B05</item>
+        <item>R3-C05</item>
+        <item>R3-D05</item>
+        <item>R3-A06</item>
+        <item>R3-B06</item>
+        <item>R3-C06</item>
+        <item>R3-D06</item>
+        <item>R3-A07</item>
+        <item>R3-B07</item>
+        <item>R3-C07</item>
+        <item>R3-D07</item>
+        <item>R3-A08</item>
+        <item>R3-B08</item>
+        <item>R3-C08</item>
+        <item>R3-D08</item>
+        <item>R3-A09</item>
+        <item>R3-B09</item>
+        <item>R3-C09</item>
+        <item>R3-D09</item>
+        <item>R3-A10</item>
+        <item>R3-B10</item>
+        <item>R3-C10</item>
+        <item>R3-D10</item>
+        <item>R3-A11</item>
+        <item>R3-B11</item>
+        <item>R3-C11</item>
+        <item>R3-D11</item>
+        <item>R3-A12</item>
+        <item>R3-B12</item>
+        <item>R3-C12</item>
+        <item>R3-D12</item>
+
+        <item>R4-D01</item>
+        <item>R4-D02</item>
+        <item>R4-D03</item>
+        <item>R4-D04</item>
+        <item>R4-D05</item>
+        <item>R4-D06</item>
+        <item>R4-D07</item>
+        <item>R4-D08</item>
+        <item>R4-D09</item>
+        <item>R4-D10</item>
+        <item>R4-D11</item>
+        <item>R4-D12</item>
+        <item>R4-C01</item>
+        <item>R4-C02</item>
+        <item>R4-C03</item>
+        <item>R4-C04</item>
+        <item>R4-C05</item>
+        <item>R4-C06</item>
+        <item>R4-C07</item>
+        <item>R4-C08</item>
+        <item>R4-C09</item>
+        <item>R4-C10</item>
+        <item>R4-C11</item>
+        <item>R4-C12</item>
+        <item>R4-B01</item>
+        <item>R4-B02</item>
+        <item>R4-B03</item>
+        <item>R4-B04</item>
+        <item>R4-B05</item>
+        <item>R4-B06</item>
+        <item>R4-B07</item>
+        <item>R4-B08</item>
+        <item>R4-B09</item>
+        <item>R4-B10</item>
+        <item>R4-B11</item>
+        <item>R4-B12</item>
+        <item>R4-A01</item>
+        <item>R4-A02</item>
+        <item>R4-A03</item>
+        <item>R4-A04</item>
+        <item>R4-A05</item>
+        <item>R4-A06</item>
+        <item>R4-A07</item>
+        <item>R4-A08</item>
+        <item>R4-A09</item>
+        <item>R4-A10</item>
+        <item>R4-A11</item>
+        <item>R4-A12</item>
+
+        <item>R5-A01</item>
+        <item>R5-A02</item>
+        <item>R5-A03</item>
+        <item>R5-A04</item>
+        <item>R5-A05</item>
+        <item>R5-A06</item>
+        <item>R5-A07</item>
+        <item>R5-A08</item>
+        <item>R5-A09</item>
+        <item>R5-A10</item>
+        <item>R5-A11</item>
+        <item>R5-A12</item>
+        <item>R5-B01</item>
+        <item>R5-B02</item>
+        <item>R5-B03</item>
+        <item>R5-B04</item>
+        <item>R5-B05</item>
+        <item>R5-B06</item>
+        <item>R5-B07</item>
+        <item>R5-B08</item>
+        <item>R5-B09</item>
+        <item>R5-B10</item>
+        <item>R5-B11</item>
+        <item>R5-B12</item>
+        <item>R5-C01</item>
+        <item>R5-C02</item>
+        <item>R5-C03</item>
+        <item>R5-C04</item>
+        <item>R5-C05</item>
+        <item>R5-C06</item>
+        <item>R5-C07</item>
+        <item>R5-C08</item>
+        <item>R5-C09</item>
+        <item>R5-C10</item>
+        <item>R5-C11</item>
+        <item>R5-C12</item>
+        <item>R5-D01</item>
+        <item>R5-D02</item>
+        <item>R5-D03</item>
+        <item>R5-D04</item>
+        <item>R5-D05</item>
+        <item>R5-D06</item>
+        <item>R5-D07</item>
+        <item>R5-D08</item>
+        <item>R5-D09</item>
+        <item>R5-D10</item>
+        <item>R5-D11</item>
+        <item>R5-D12</item>
+
+        <item>R6-A01</item>
+        <item>R6-A02</item>
+        <item>R6-A03</item>
+        <item>R6-A04</item>
+        <item>R6-A05</item>
+        <item>R6-A06</item>
+        <item>R6-A07</item>
+        <item>R6-A08</item>
+        <item>R6-A09</item>
+        <item>R6-A10</item>
+        <item>R6-A11</item>
+        <item>R6-A12</item>
+        <item>R6-A13</item>
+        <item>R6-A14</item>
+        <item>R6-B01</item>
+        <item>R6-B02</item>
+        <item>R6-B03</item>
+        <item>R6-B04</item>
+        <item>R6-B05</item>
+        <item>R6-B06</item>
+        <item>R6-B07</item>
+        <item>R6-B08</item>
+        <item>R6-B09</item>
+        <item>R6-B10</item>
+        <item>R6-B11</item>
+        <item>R6-B12</item>
+        <item>R6-B13</item>
+        <item>R6-B14</item>
+        <item>R6-C01</item>
+        <item>R6-C02</item>
+        <item>R6-C03</item>
+        <item>R6-C04</item>
+        <item>R6-C05</item>
+        <item>R6-C06</item>
+        <item>R6-C07</item>
+        <item>R6-C08</item>
+        <item>R6-C09</item>
+        <item>R6-C10</item>
+        <item>R6-C11</item>
+        <item>R6-C12</item>
+        <item>R6-C13</item>
+        <item>R6-C14</item>
+        <item>R6-D01</item>
+        <item>R6-D02</item>
+        <item>R6-D03</item>
+        <item>R6-D04</item>
+        <item>R6-D05</item>
+        <item>R6-D06</item>
+        <item>R6-D07</item>
+        <item>R6-D08</item>
+        <item>R6-D09</item>
+        <item>R6-D10</item>
+        <item>R6-D11</item>
+        <item>R6-D12</item>
+        <item>R6-D13</item>
+        <item>R6-D14</item>
+
+        <item>R7-A01</item>
+        <item>R7-A02</item>
+        <item>R7-A03</item>
+        <item>R7-A04</item>
+        <item>R7-A05</item>
+        <item>R7-A06</item>
+        <item>R7-A07</item>
+        <item>R7-A08</item>
+        <item>R7-A09</item>
+        <item>R7-A10</item>
+        <item>R7-A11</item>
+        <item>R7-A12</item>
+        <item>R7-B01</item>
+        <item>R7-B02</item>
+        <item>R7-B03</item>
+        <item>R7-B04</item>
+        <item>R7-B05</item>
+        <item>R7-B06</item>
+        <item>R7-B07</item>
+        <item>R7-B08</item>
+        <item>R7-B09</item>
+        <item>R7-B10</item>
+        <item>R7-B11</item>
+        <item>R7-B12</item>
+        <item>R7-C01</item>
+        <item>R7-C02</item>
+        <item>R7-C03</item>
+        <item>R7-C04</item>
+        <item>R7-C05</item>
+        <item>R7-C06</item>
+        <item>R7-C07</item>
+        <item>R7-C08</item>
+        <item>R7-C09</item>
+        <item>R7-C10</item>
+        <item>R7-C11</item>
+        <item>R7-C12</item>
+        <item>R7-D01</item>
+        <item>R7-D02</item>
+        <item>R7-D03</item>
+        <item>R7-D04</item>
+        <item>R7-D05</item>
+        <item>R7-D06</item>
+        <item>R7-D07</item>
+        <item>R7-D08</item>
+        <item>R7-D09</item>
+        <item>R7-D10</item>
+        <item>R7-D11</item>
+        <item>R7-D12</item>
+
+        <item>R8-D01</item>
+        <item>R8-D02</item>
+        <item>R8-D03</item>
+        <item>R8-D04</item>
+        <item>R8-D05</item>
+        <item>R8-D06</item>
+        <item>R8-D07</item>
+        <item>R8-D08</item>
+        <item>R8-D09</item>
+        <item>R8-D10</item>
+        <item>R8-D11</item>
+        <item>R8-D12</item>
+        <item>R8-C01</item>
+        <item>R8-C02</item>
+        <item>R8-C03</item>
+        <item>R8-C04</item>
+        <item>R8-C05</item>
+        <item>R8-C06</item>
+        <item>R8-C07</item>
+        <item>R8-C08</item>
+        <item>R8-C09</item>
+        <item>R8-C10</item>
+        <item>R8-C11</item>
+        <item>R8-C12</item>
+        <item>R8-B01</item>
+        <item>R8-B02</item>
+        <item>R8-B03</item>
+        <item>R8-B04</item>
+        <item>R8-B05</item>
+        <item>R8-B06</item>
+        <item>R8-B07</item>
+        <item>R8-B08</item>
+        <item>R8-B09</item>
+        <item>R8-B10</item>
+        <item>R8-B11</item>
+        <item>R8-B12</item>
+        <item>R8-A01</item>
+        <item>R8-A02</item>
+        <item>R8-A03</item>
+        <item>R8-A04</item>
+        <item>R8-A05</item>
+        <item>R8-A06</item>
+        <item>R8-A07</item>
+        <item>R8-A08</item>
+        <item>R8-A09</item>
+        <item>R8-A10</item>
+        <item>R8-A11</item>
+        <item>R8-A12</item>
+
+        <item>CT-1</item>
+        <item>CT-2</item>
+        <item>CT-3</item>
+        <item>CT-4</item>
+        <item>CT-5</item>
+        <item>CT-6</item>
+        <item>CT-7</item>
+        <item>CT-8</item>
+        <item>CT-9</item>
+        <item>CT-10</item>
+
+        <item>E1-01</item>
+        <item>E1-02</item>
+        <item>E1-03</item>
+        <item>E1-04</item>
+        <item>E1-05</item>
+        <item>E2-01</item>
+        <item>E2-02</item>
+        <item>E2-03</item>
+        <item>E2-04</item>
+        <item>E2-05</item>
+        <item>E3-01</item>
+        <item>E3-02</item>
+        <item>E3-03</item>
+        <item>E3-04</item>
+        <item>E3-05</item>
+        <item>E4-01</item>
+        <item>E4-02</item>
+        <item>E4-03</item>
+        <item>E4-04</item>
+        <item>E4-05</item>
+        <item>E5-01</item>
+        <item>E5-02</item>
+        <item>E5-03</item>
+        <item>E5-04</item>
+        <item>E5-05</item>
+        <item>E6-01</item>
+        <item>E6-02</item>
+        <item>E6-03</item>
+        <item>E6-04</item>
+        <item>E6-05</item>
+        <item>E7-01</item>
+        <item>E7-02</item>
+        <item>E7-03</item>
+        <item>E7-04</item>
+        <item>E7-05</item>
+        <item>E8-01</item>
+        <item>E8-02</item>
+        <item>E8-03</item>
+        <item>E8-04</item>
+        <item>E8-05</item>
+        <item>E9-01</item>
+        <item>E9-02</item>
+        <item>E9-03</item>
+        <item>E9-04</item>
+        <item>E9-05</item>
+        <item>E10-01</item>
+        <item>E10-02</item>
+        <item>E10-03</item>
+        <item>E10-04</item>
+        <item>E10-05</item>
+        <item>E11-01</item>
+        <item>E11-02</item>
+        <item>E11-03</item>
+        <item>E11-04</item>
+        <item>E11-05</item>
+        <item>E12-01</item>
+        <item>E12-02</item>
+        <item>E12-03</item>
+        <item>E12-04</item>
+        <item>E12-05</item>
+        <item>E13-01</item>
+        <item>E13-02</item>
+        <item>E13-03</item>
+        <item>E13-04</item>
+        <item>E13-05</item>
+        <item>PL-01</item>
+        <item>PL-02</item>
+        <item>TARIMA-1</item>
+        <item>TARIMA-2</item>
+        <item>TARIMA-3</item>
+        <item>TARIMA-4</item>
+        <item>TARIMA-5</item>
+        <item>TARIMA-6</item>
+        <item>TARIMA-7</item>
+        <item>TARIMA-8</item>
+        <item>TARIMA-9</item>
+        <item>TARIMA10</item>
+        <item>PISO-1</item>
+        <item>PISO-2</item>
+        <item>PISO-3</item>
+        <item>PISO-4</item>
+        <item>PISO-5</item>
+        <item>PISO-6</item>
+        <item>PISO-7</item>
+        <item>PISO-8</item>
+        <item>PISO-9</item>
+        <item>PISO-10</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </string-array>
+
+    <string-array name="conteos">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="bodegas">
+        <item>F01</item>
+        <item>F02</item>
+        <item>F03</item>
+        <item>F04</item>
+        <item>F05</item>
+        <item>F06</item>
+        <item>F07</item>
+        <item>F08</item>
+        <item>F09</item>
+        <item>F10</item>
+        <item>C01</item>
+    </string-array>
+
+    <string-array name="racks">
+        <item>ND</item>
+        <item>RACK-1</item>
+        <item>RACK-2</item>
+        <item>RACK-3</item>
+        <item>RACK-4</item>
+        <item>RACK-5</item>
+        <item>RACK-6</item>
+        <item>RACK-7</item>
+        <item>RACK-8</item>
+    </string-array>
+
+    <string-array name="usuarios">
+        <item>OlgaCortes</item>
+        <item>GandenCordoba</item>
+        <item>KathyTellez</item>
+        <item>JesseniaGonzalez</item>
+        <item>BelkysDelgado</item>
+        <item>RogeliaLopez</item>
+        <item>MonicaArroliga</item>
+        <item>SoniaGranja</item>
+        <item>Leana</item>
+        <item>JoseSandoval</item>
+        <item>MoisesDelgado</item>
+        <item>ErvinEspinoza</item>
+        <item>AbrahamBravo</item>
+        <item>WilliamOsorio</item>
+        <item>WillianSandino</item>
+        <item>AnaMorales</item>
+        <item>DorisLanzas</item>
+        <item>KennyAburto</item>
+        <item>EduardoGuevara</item>
+        <item>AlexanderPerez</item>
+        <item>OscarArnuero</item>
+        <item>LenninCruz</item>
+        <item>AnaMorales</item>
+        <item>JackelineRivera</item>
+        <item>DorisLanzas</item>
+
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

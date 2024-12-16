@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9s948tSvcUG2zmrC8ok/+ceCgy9X2iGLhvnD93ZQTZw=",
+  "Source": "BACKEND_SCM.API",
+  "BasePath": "_content/BACKEND_SCM.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

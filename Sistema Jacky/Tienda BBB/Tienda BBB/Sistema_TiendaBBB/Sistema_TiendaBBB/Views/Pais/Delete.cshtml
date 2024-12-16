@@ -1,0 +1,12 @@
+﻿@model TbCatPai
+
+<h1>Eliminar País</h1>
+
+<p>¿Está seguro de que desea eliminar el país <strong>@Model.DescripcionPais</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="IdPais" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Cancelar</a>
+</form>
+

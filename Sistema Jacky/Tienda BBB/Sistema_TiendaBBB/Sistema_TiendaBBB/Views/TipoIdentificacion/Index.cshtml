@@ -1,0 +1,37 @@
+﻿@model List<TbCatTipoIdentificacion>
+
+<h1>Tipo De Indentificación</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success mb-3">Agregar País</a>
+</p>
+
+<!-- Tabla de Identificacion -->
+<div class="table-responsive">
+    <table class="table table-hover table-striped table-bordered">
+        <thead class="table-primary">
+            <tr>
+
+                <th>Identificación</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tbCatTipoIdentificacion in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(m => tbCatTipoIdentificacion.DescripcionIdentificacion)</td>
+                    <td>
+                        <!-- Botones para editar y eliminar -->
+                        <a asp-action="Edit" asp-route-id="@tbCatTipoIdentificacion.IdIdentificacion" class="btn btn-warning btn-sm">
+                            <i class="bi bi-pencil"></i> Editar
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@tbCatTipoIdentificacion.IdIdentificacion" class="btn btn-danger btn-sm">
+                            <i class="bi bi-trash"></i> Eliminar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

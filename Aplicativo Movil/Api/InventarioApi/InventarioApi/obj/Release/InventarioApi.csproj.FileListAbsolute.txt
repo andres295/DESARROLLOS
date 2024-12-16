@@ -1,0 +1,819 @@
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\InventarioApi.dll.config
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\InventarioApi.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\InventarioApi.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\csc.exe
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\csc.exe.config
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\csc.rsp
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\csi.exe
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\csi.exe.config
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\csi.rsp
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.AppContext.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Console.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Net.Http.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\vbc.exe
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\vbc.exe.config
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\vbc.rsp
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Antlr3.Runtime.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Newtonsoft.Json.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Buffers.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Memory.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Helpers.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Http.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Mvc.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Optimization.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Razor.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.WebPages.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\WebGrease.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Buffers.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Memory.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Newtonsoft.Json.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Helpers.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Http.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Mvc.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Optimization.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.Razor.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.WebPages.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Antlr3.Runtime.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\obj\Release\InventarioApi.csprojAssemblyReference.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CopyComplete
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\obj\Release\InventarioApi.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\InventarioApi\obj\Release\InventarioApi.pdb
+E:\InventarioApi\InventarioApi\bin\InventarioApi.dll.config
+E:\InventarioApi\InventarioApi\bin\InventarioApi.dll
+E:\InventarioApi\InventarioApi\bin\InventarioApi.pdb
+E:\InventarioApi\InventarioApi\bin\roslyn\csc.exe
+E:\InventarioApi\InventarioApi\bin\roslyn\csc.exe.config
+E:\InventarioApi\InventarioApi\bin\roslyn\csc.rsp
+E:\InventarioApi\InventarioApi\bin\roslyn\csi.exe
+E:\InventarioApi\InventarioApi\bin\roslyn\csi.exe.config
+E:\InventarioApi\InventarioApi\bin\roslyn\csi.rsp
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.AppContext.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Collections.Immutable.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Console.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Globalization.Calendars.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Net.Http.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Net.Sockets.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.ValueTuple.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\InventarioApi\InventarioApi\bin\roslyn\vbc.exe
+E:\InventarioApi\InventarioApi\bin\roslyn\vbc.exe.config
+E:\InventarioApi\InventarioApi\bin\roslyn\vbc.rsp
+E:\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe
+E:\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe.config
+E:\InventarioApi\InventarioApi\bin\Antlr3.Runtime.dll
+E:\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.dll
+E:\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.dll
+E:\InventarioApi\InventarioApi\bin\Microsoft.Web.Infrastructure.dll
+E:\InventarioApi\InventarioApi\bin\Newtonsoft.Json.dll
+E:\InventarioApi\InventarioApi\bin\System.Buffers.dll
+E:\InventarioApi\InventarioApi\bin\System.Memory.dll
+E:\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.dll
+E:\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.dll
+E:\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.dll
+E:\InventarioApi\InventarioApi\bin\System.Web.Helpers.dll
+E:\InventarioApi\InventarioApi\bin\System.Web.Http.dll
+E:\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.dll
+E:\InventarioApi\InventarioApi\bin\System.Web.Mvc.dll
+E:\InventarioApi\InventarioApi\bin\System.Web.Optimization.dll
+E:\InventarioApi\InventarioApi\bin\System.Web.Razor.dll
+E:\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.dll
+E:\InventarioApi\InventarioApi\bin\System.Web.WebPages.dll
+E:\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.dll
+E:\InventarioApi\InventarioApi\bin\WebGrease.dll
+E:\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.xml
+E:\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.xml
+E:\InventarioApi\InventarioApi\bin\System.Buffers.xml
+E:\InventarioApi\InventarioApi\bin\System.Memory.xml
+E:\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.xml
+E:\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.xml
+E:\InventarioApi\InventarioApi\bin\Newtonsoft.Json.xml
+E:\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.xml
+E:\InventarioApi\InventarioApi\bin\System.Web.Helpers.xml
+E:\InventarioApi\InventarioApi\bin\System.Web.Http.xml
+E:\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.xml
+E:\InventarioApi\InventarioApi\bin\System.Web.Mvc.xml
+E:\InventarioApi\InventarioApi\bin\System.Web.Optimization.xml
+E:\InventarioApi\InventarioApi\bin\System.Web.Razor.xml
+E:\InventarioApi\InventarioApi\bin\System.Web.WebPages.xml
+E:\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.xml
+E:\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.xml
+E:\InventarioApi\InventarioApi\bin\Antlr3.Runtime.pdb
+E:\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\InventarioApi\InventarioApi\bin\es\System.Net.Http.Formatting.resources.dll
+E:\InventarioApi\InventarioApi\bin\es\System.Web.Helpers.resources.dll
+E:\InventarioApi\InventarioApi\bin\es\System.Web.Http.resources.dll
+E:\InventarioApi\InventarioApi\bin\es\System.Web.Http.WebHost.resources.dll
+E:\InventarioApi\InventarioApi\bin\es\System.Web.Mvc.resources.dll
+E:\InventarioApi\InventarioApi\bin\es\System.Web.Optimization.resources.dll
+E:\InventarioApi\InventarioApi\bin\es\System.Web.Razor.resources.dll
+E:\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.resources.dll
+E:\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.AssemblyReference.cache
+E:\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CoreCompileInputs.cache
+E:\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CopyComplete
+E:\InventarioApi\InventarioApi\obj\Release\InventarioApi.dll
+E:\InventarioApi\InventarioApi\obj\Release\InventarioApi.pdb
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\InventarioApi.dll.config
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\InventarioApi.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\InventarioApi.pdb
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csc.exe
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csc.exe.config
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csc.rsp
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csi.exe
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csi.exe.config
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csi.rsp
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.AppContext.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Collections.Immutable.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Console.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Globalization.Calendars.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Net.Http.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Net.Sockets.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.ValueTuple.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\vbc.exe
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\vbc.exe.config
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\vbc.rsp
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe.config
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Antlr3.Runtime.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.Web.Infrastructure.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Newtonsoft.Json.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Buffers.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Memory.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Helpers.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Http.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Mvc.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Optimization.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Razor.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\WebGrease.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Buffers.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Memory.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Newtonsoft.Json.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Helpers.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Http.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Mvc.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Optimization.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Razor.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Antlr3.Runtime.pdb
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Net.Http.Formatting.resources.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Helpers.resources.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Http.resources.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Http.WebHost.resources.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Mvc.resources.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Optimization.resources.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Razor.resources.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.resources.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.AssemblyReference.cache
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CoreCompileInputs.cache
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CopyComplete
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\obj\Release\InventarioApi.dll
+D:\APP_INVENTARIOS\InventarioApi\InventarioApi\obj\Release\InventarioApi.pdb
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\InventarioApi.dll.config
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\InventarioApi.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\InventarioApi.pdb
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csc.exe
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csc.exe.config
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csc.rsp
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csi.exe
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csi.exe.config
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\csi.rsp
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.AppContext.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Console.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Net.Http.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\vbc.exe
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\vbc.exe.config
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\vbc.rsp
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Antlr3.Runtime.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Newtonsoft.Json.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Buffers.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Memory.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Helpers.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Http.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Mvc.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Optimization.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Razor.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\WebGrease.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Buffers.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Memory.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Newtonsoft.Json.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Helpers.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Http.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Mvc.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Optimization.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.Razor.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Antlr3.Runtime.pdb
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CopyComplete
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\obj\Release\InventarioApi.dll
+C:\Users\Andres\Desktop\Proyectos\APP_INVENTARIOS\InventarioApi\InventarioApi\obj\Release\InventarioApi.pdb
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\InventarioApi.dll.config
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\InventarioApi.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\InventarioApi.pdb
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csc.exe
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csc.exe.config
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csc.rsp
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csi.exe
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csi.exe.config
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csi.rsp
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.AppContext.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Console.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Net.Http.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\vbc.exe
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\vbc.exe.config
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\vbc.rsp
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Antlr3.Runtime.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Newtonsoft.Json.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Buffers.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Memory.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Helpers.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Http.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Mvc.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Optimization.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Razor.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\WebGrease.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Buffers.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Memory.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Newtonsoft.Json.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Helpers.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Http.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Mvc.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Optimization.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Razor.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Antlr3.Runtime.pdb
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CopyComplete
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\obj\Release\InventarioApi.dll
+C:\Users\Andres\Desktop\AppsGitLab\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\obj\Release\InventarioApi.pdb
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\InventarioApi.dll.config
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\InventarioApi.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\InventarioApi.pdb
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csc.exe
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csc.exe.config
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csc.rsp
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csi.exe
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csi.exe.config
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\csi.rsp
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.AppContext.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Console.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Net.Http.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Net.Sockets.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.ValueTuple.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\vbc.exe
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\vbc.exe.config
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\vbc.rsp
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Antlr3.Runtime.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Buffers.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Memory.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Helpers.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Http.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Mvc.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Optimization.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Razor.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\WebGrease.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Buffers.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Memory.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Helpers.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Http.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Mvc.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Optimization.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.Razor.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Antlr3.Runtime.pdb
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Helpers.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Http.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Mvc.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Optimization.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.Razor.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.AssemblyReference.cache
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CoreCompileInputs.cache
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\obj\Release\Inventar.3901CF90.Up2Date
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\obj\Release\InventarioApi.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\InventarioApi\obj\Release\InventarioApi.pdb
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\InventarioApi.dll.config
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\InventarioApi.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\InventarioApi.pdb
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\csc.exe
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\csc.exe.config
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\csc.rsp
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\csi.exe
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\csi.exe.config
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\csi.rsp
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.AppContext.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Console.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Net.Http.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\vbc.exe
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\vbc.exe.config
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\vbc.rsp
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Antlr3.Runtime.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Newtonsoft.Json.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Buffers.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Memory.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Helpers.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Http.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Mvc.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Optimization.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Razor.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.WebPages.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\WebGrease.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Buffers.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Memory.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Numerics.Vectors.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Text.Encodings.Web.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Newtonsoft.Json.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Helpers.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Http.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Mvc.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Optimization.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.Razor.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.WebPages.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Antlr3.Runtime.pdb
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.AssemblyReference.cache
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\obj\Release\InventarioApi.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\obj\Release\Inventar.3901CF90.Up2Date
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\obj\Release\InventarioApi.dll
+C:\Users\Andrés\Desktop\SubirGit\Api\InventarioApi\InventarioApi\obj\Release\InventarioApi.pdb

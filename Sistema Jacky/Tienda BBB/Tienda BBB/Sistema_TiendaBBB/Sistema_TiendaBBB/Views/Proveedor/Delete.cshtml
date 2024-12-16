@@ -1,0 +1,11 @@
+﻿@model TbCatProveedor
+
+<h1>Eliminar Proveedor</h1>
+
+<p>¿Está seguro de que desea eliminar el proveedor <strong>@Model.NombreProveedor</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="IdProveedor" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Cancelar</a>
+</form>

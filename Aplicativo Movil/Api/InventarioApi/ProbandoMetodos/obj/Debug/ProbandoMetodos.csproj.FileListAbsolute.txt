@@ -1,0 +1,162 @@
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\ProbandoMetodos.dll.config
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\ProbandoMetodos.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\ProbandoMetodos.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\InventarioApi.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Optimization.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Mvc.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\WebGrease.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Razor.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\InventarioApi.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\InventarioApi.dll.config
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Optimization.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Mvc.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Razor.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Http.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.csprojAssemblyReference.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.csproj.CopyComplete
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.dll
+C:\Users\Eduardo Guevara\OneDrive - FARMACEUTICOS Y CONEXOS S.A #2\Desktop\ApiInventarios\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.pdb
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\ProbandoMetodos.dll.config
+E:\InventarioApi\ProbandoMetodos\bin\Debug\ProbandoMetodos.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\ProbandoMetodos.pdb
+E:\InventarioApi\ProbandoMetodos\bin\Debug\InventarioApi.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Newtonsoft.Json.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Net.Http.Formatting.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Optimization.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Mvc.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.WebHost.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\WebGrease.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Razor.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Razor.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Antlr3.Runtime.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\InventarioApi.pdb
+E:\InventarioApi\ProbandoMetodos\bin\Debug\InventarioApi.dll.config
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Newtonsoft.Json.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Net.Http.Formatting.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Optimization.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Mvc.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.WebHost.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Razor.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Razor.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\Antlr3.Runtime.pdb
+E:\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Http.resources.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Optimization.resources.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Mvc.resources.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.WebPages.resources.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Razor.resources.dll
+E:\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+E:\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.csproj.AssemblyReference.cache
+E:\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.csproj.CoreCompileInputs.cache
+E:\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.csproj.CopyComplete
+E:\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.dll
+E:\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.pdb
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\ProbandoMetodos.dll.config
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\ProbandoMetodos.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\ProbandoMetodos.pdb
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\InventarioApi.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Net.Http.Formatting.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Optimization.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Mvc.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.WebHost.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\WebGrease.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Razor.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Antlr3.Runtime.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\InventarioApi.pdb
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\InventarioApi.dll.config
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Net.Http.Formatting.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Optimization.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Mvc.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Http.WebHost.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.Razor.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\Antlr3.Runtime.pdb
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Http.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.csproj.AssemblyReference.cache
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.csproj.CoreCompileInputs.cache
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\obj\Debug\Probando.9A6C66A8.Up2Date
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.dll
+C:\Proyectos\apps\APP_INV\API\InventarioApi\ProbandoMetodos\obj\Debug\ProbandoMetodos.pdb

@@ -1,0 +1,52 @@
+﻿@model List<TbCatCliente>
+
+<h1 class="mb-4">Clientes</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success mb-3">Agregar Cliente</a>
+</p>
+
+<!-- Tabla de Artículos -->
+<div class="table-responsive">
+    <table class="table table-hover table-striped table-bordered">
+        <thead class="table-primary">
+            <tr>
+
+                <th>Cliente</th>
+                <th>Clasificación</th>
+                <th>Tipo Pago</th>
+                <th>Tipo Identificación</th>
+                <th>País</th>
+                <th>Ciudad</th>
+                <th>Identificación</th>
+                <th>Dirección</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tbCatCliente in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(m => tbCatCliente.NombreCliente)</td>
+                    <td>@Html.DisplayFor(m => tbCatCliente.IdClasificacionNavigation.DescripcionClasificacion)</td>
+                    <td>@Html.DisplayFor(m => tbCatCliente.IdPagoNavigation.DescripcionPago)</td>
+                    <td>@Html.DisplayFor(m => tbCatCliente.IdIdentificacionNavigation.DescripcionIdentificacion)</td>
+                    <td>@Html.DisplayFor(m => tbCatCliente.IdPaisNavigation.DescripcionPais)</td>
+                    <td>@Html.DisplayFor(m => tbCatCliente.IdCiudadNavigation.DescripcionCiudad)</td>
+                    <td>@Html.DisplayFor(m => tbCatCliente.NumeroIdentificacion)</td>
+                    <td>@Html.DisplayFor(m => tbCatCliente.Direccion)</td>
+                    <td>
+                        <!-- Botones para editar y eliminar -->
+                        <a asp-action="Edit" asp-route-id="@tbCatCliente.IdCliente" class="btn btn-warning btn-sm">
+                            <i class="bi bi-pencil"></i> Editar
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@tbCatCliente.IdCliente" class="btn btn-danger btn-sm">
+                            <i class="bi bi-trash"></i> Eliminar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

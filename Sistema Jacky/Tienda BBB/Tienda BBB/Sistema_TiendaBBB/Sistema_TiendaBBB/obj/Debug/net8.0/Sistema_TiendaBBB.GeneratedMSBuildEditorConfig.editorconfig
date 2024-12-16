@@ -1,0 +1,227 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Sistema_TiendaBBB
+build_property.RootNamespace = Sistema_TiendaBBB
+build_property.ProjectDir = C:\Sistema Jacky\Tienda BBB\Sistema_TiendaBBB\Sistema_TiendaBBB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Sistema Jacky\Tienda BBB\Sistema_TiendaBBB\Sistema_TiendaBBB
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Articulo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Articulo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Articulo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Articulo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Ciudad/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l1ZGFkXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Ciudad/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l1ZGFkXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Ciudad/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l1ZGFkXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Ciudad/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l1ZGFkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/ClasificacionCliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvbkNsaWVudGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/ClasificacionCliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvbkNsaWVudGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/ClasificacionCliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvbkNsaWVudGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/ClasificacionCliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvbkNsaWVudGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/ClasificacionProveedor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvblByb3ZlZWRvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/ClasificacionProveedor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvblByb3ZlZWRvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/ClasificacionProveedor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvblByb3ZlZWRvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/ClasificacionProveedor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvblByb3ZlZWRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Clasificacion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Clasificacion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Clasificacion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Clasificacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2lmaWNhY2lvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Pais/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Pais/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Pais/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Pais/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Presentacion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2VudGFjaW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Presentacion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2VudGFjaW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Presentacion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2VudGFjaW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Presentacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2VudGFjaW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Proveedor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Proveedor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Proveedor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Proveedor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/TipoIdentificacion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0lkZW50aWZpY2FjaW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/TipoIdentificacion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0lkZW50aWZpY2FjaW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/TipoIdentificacion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0lkZW50aWZpY2FjaW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/TipoIdentificacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0lkZW50aWZpY2FjaW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/TiposPago/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NQYWdvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/TiposPago/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NQYWdvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/TiposPago/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NQYWdvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/TiposPago/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NQYWdvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Ventas/CrearVenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXENyZWFyVmVudGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Ventas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistema Jacky/Tienda BBB/Sistema_TiendaBBB/Sistema_TiendaBBB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gg91kuvjnk

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143483857237",
+    "project_id": "appinv-deaf7",
+    "storage_bucket": "appinv-deaf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143483857237:android:6eb8e934b0cb370f9d67dc",
+        "android_client_info": {
+          "package_name": "farcosa.com.ni.tomafisica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143483857237-lhvekoj627vq7pho2pbkuo5snnp6v49e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "farcosa.com.ni.tomafisica",
+            "certificate_hash": "3c4c65a9ff3a1791bf51c24374e2e6224184c26c"
+          }
+        },
+        {
+          "client_id": "143483857237-9t0e5ckr1550aumhdhof8rpdev7avp6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcF3j37GOwCCFl0a02fAF95h9J6bNlOr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143483857237-9t0e5ckr1550aumhdhof8rpdev7avp6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

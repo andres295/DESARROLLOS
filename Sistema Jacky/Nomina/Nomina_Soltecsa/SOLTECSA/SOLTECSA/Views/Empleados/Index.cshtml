@@ -1,0 +1,45 @@
+﻿@model List<Empleado>
+
+<h1>Listado De Empleados</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success mb-3">Agregar Empleado</a>
+</p>
+
+<!-- Tabla de Empleado -->
+<div class="table-responsive">
+    <table class="table table-hover table-striped table-bordered">
+        <thead class="table-primary">
+            <tr>
+
+                <th>Empleado</th>
+                <th>Edad</th>
+                <th>Dirección</th>
+                <th>Cédula</th>
+                <th>Estado Civil</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var empleado in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(m => empleado.Nombre)</td>
+                    <td>@Html.DisplayFor(m => empleado.Edad)</td>
+                    <td>@Html.DisplayFor(m => empleado.Dirección)</td>
+                    <td>@Html.DisplayFor(m => empleado.Cedula)</td>
+                    <td>@Html.DisplayFor(m => empleado.EstadoCivil)</td>
+                    <td>
+                        <!-- Botones para editar y eliminar -->
+                        <a asp-action="Edit" asp-route-id="@empleado.IdEmpleado" class="btn btn-warning btn-sm">
+                            <i class="bi bi-pencil"></i> Editar
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@empleado.IdEmpleado" class="btn btn-danger btn-sm">
+                            <i class="bi bi-trash"></i> Eliminar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

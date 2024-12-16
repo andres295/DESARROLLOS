@@ -1,0 +1,4 @@
+//Crear Conexión
+Scaffold-DbContext "Data Source=.;Initial Catalog=BD_BBB;User ID=sa;Password=123;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+//Actualizar cambios de la bd utilizando database first
+Scaffold-DbContext "Data Source=.;Initial Catalog=BD_BBB;User ID=sa;Password=123;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force

@@ -1,0 +1,33 @@
+﻿@using Sistema_TiendaBBB.Models.ViewModels
+@model CiudadViewModel
+
+<h1>Actualizar Ciudad</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <!-- Cambia el asp-action a "Edit" -->
+        <form asp-action="Edit" method="post">
+            <!-- Campo oculto para el ID del artículo -->
+            <input type="hidden" asp-for="IdCiudad" />
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DescripcionCiudad" class="control-label"></label>
+                <input asp-for="DescripcionCiudad" class="form-control" />
+                <span asp-validation-for="DescripcionCiudad" class="text-danger"></span>
+            </div>
+            <!-- Guardar Registro -->
+            <div class="form-group">
+                <input type="submit" value="Actualizar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

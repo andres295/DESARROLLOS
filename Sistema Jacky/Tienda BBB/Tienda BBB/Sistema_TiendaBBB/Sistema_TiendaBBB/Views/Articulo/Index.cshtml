@@ -1,0 +1,43 @@
+﻿@model List<TbCatArticulo>
+
+<h1 class="mb-4">Artículos</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success mb-3">Agregar Artículo</a>
+</p>
+
+<!-- Tabla de Artículos -->
+<div class="table-responsive">
+    <table class="table table-hover table-striped table-bordered">
+        <thead class="table-primary">
+            <tr>
+                <th>Articulo</th>
+                <th>Proveedor</th>
+                <th>Clasificación</th>
+                <th>Presentación</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var TbCatArticulo in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(m => TbCatArticulo.DescripcionArticulo)</td>
+                    <td>@Html.DisplayFor(m => TbCatArticulo.IdProveedorNavigation.NombreProveedor)</td>
+                    <td>@Html.DisplayFor(m => TbCatArticulo.IdClasificacionNavigation.DescripcionClasificacion)</td>
+                    <td>@Html.DisplayFor(m => TbCatArticulo.IdPresentacionNavigation.DescripcionPresentacion)</td>
+                    <td>
+                        <!-- Botones para editar y eliminar -->
+                        <a asp-action="Edit" asp-route-id="@TbCatArticulo.IdArticulo" class="btn btn-warning btn-sm">
+                            <i class="bi bi-pencil"></i> Editar
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@TbCatArticulo.IdArticulo" class="btn btn-danger btn-sm">
+                            <i class="bi bi-trash"></i> Eliminar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

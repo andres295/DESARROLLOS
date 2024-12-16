@@ -1,0 +1,12 @@
+﻿@model TbCatPresentacionArt
+
+<h1>Eliminar Presentación</h1>
+
+<p>¿Está seguro de que desea eliminar la Presentación <strong>@Model.DescripcionPresentacion</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="IdPresentacion" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Cancelar</a>
+</form>
+

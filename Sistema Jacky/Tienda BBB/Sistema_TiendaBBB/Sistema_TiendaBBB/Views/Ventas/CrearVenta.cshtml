@@ -1,0 +1,54 @@
+﻿@model Sistema_TiendaBBB.Models.VentaViewModel
+
+<form asp-action="CrearVenta" method="post">
+    <div>
+        <label for="IdArticulo">Producto:</label>
+        <select asp-for="IdArticulo" asp-items="ViewBag.Articulos" class="form-control" onchange="fetchPrecioUnitario(this.value)">
+            <option value="">Selecciona un producto</option>
+        </select>
+    </div>
+    <div>
+        <label for="IdCliente">Cliente:</label>
+        <select asp-for="IdCliente" asp-items="ViewBag.Clientes" class="form-control">
+            <option value="">Selecciona un cliente</option>
+        </select>
+    </div>
+    <div>
+        <label for="Cantidad">Cantidad:</label>
+        <input asp-for="Cantidad" type="number" class="form-control" min="1" onchange="calculateTotal()" />
+    </div>
+    <div>
+        <label for="PrecioUnitario">Precio Unitario:</label>
+        <input asp-for="PrecioUnitario" type="text" class="form-control" readonly />
+    </div>
+    <div>
+        <label for="Subtotal">Subtotal:</label>
+        <input asp-for="Subtotal" type="text" class="form-control" readonly />
+    </div>
+    <div>
+        <label for="Total">Total:</label>
+        <input asp-for="Total" type="text" class="form-control" readonly />
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar Venta</button>
+</form>
+
+@section Scripts {
+    <script>
+        async function fetchPrecioUnitario(productId) {
+            if (productId) {
+                const response = await fetch(`/Ventas/GetPrecioUnitario/${productId}`);
+                const data = await response.json();
+                document.querySelector('[name="PrecioUnitario"]').value = data.precioUnitario || 0;
+                calculateTotal();
+            }
+        }
+
+        function calculateTotal() {
+            const cantidad = document.querySelector('[name="Cantidad"]').value;
+            const precioUnitario = document.querySelector('[name="PrecioUnitario"]').value;
+            const subtotal = cantidad * precioUnitario;
+            document.querySelector('[name="Subtotal"]').value = subtotal.toFixed(2);
+            document.querySelector('[name="Total"]').value = subtotal.toFixed(2); // Si hay descuentos o impuestos, ajusta aquí
+        }
+    </script>
+}
