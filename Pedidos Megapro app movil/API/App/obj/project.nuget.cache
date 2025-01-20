@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WrCWSbO070Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EduardoAndrésGuevara\\Documents\\Git\\DESARROLLOS\\Pedidos Megapro app movil\\API\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EduardoAndrésGuevara\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\EduardoAndrésGuevara\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
